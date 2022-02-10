@@ -1,0 +1,25 @@
+h1{
+    color:black;
+background-color: grey;
+
+
+
+}
+.hmain{
+
+    color: black;
+    background: lightblue;
+}
+#hsecond{
+    color: brown;
+    background: skyblue
+    font-size: small;
+}
+#pmain{
+    color: royalblue;
+}
+
+#psecond{
+    color: rgb(11, 53, 107);
+    background: yellow;
+}
